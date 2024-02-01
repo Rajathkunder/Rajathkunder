@@ -1,3 +1,4 @@
+<div style="background-color:black">
 <h1 align="center">Hi 👋, I'm Rajath</h1>
 <h3 align="center">A passionate Backend Developer from Udupi.</h3>
 
@@ -26,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajathkunder&show_icons=true&locale=en" alt="rajathkunder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajathkunder&" alt="rajathkunder" /></p>
+</div>
